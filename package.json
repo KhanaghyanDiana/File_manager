@@ -1,0 +1,13 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "file_manager:assignment week two",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
